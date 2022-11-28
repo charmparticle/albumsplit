@@ -12,7 +12,7 @@ First, you need the mp3 file, and a tracks file, listing the temporal offset of 
 
     pip3 install albumsplit
 
-You can use my other tool, trackcalc, to calculate out these offsets.
+You can use my other tool, [trackcalc](https://github.com/charmparticle/trackcalc), to calculate out these offsets.
 
 then you can split up the mp3 file like this:
 

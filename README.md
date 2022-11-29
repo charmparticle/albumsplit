@@ -4,8 +4,8 @@ albumsplit is a tool to split up full-length album mp3s into individual tracks.
 
 First, you need the mp3 file, and a tracks file, listing the temporal offset of each track, followed by its title, ie:
 
-00:00 first track
-01:33 second track (where first track was a minute 33 seconds long
+    00:00 first track
+    01:33 second track (where first track was a minute 33 seconds long
 ... etc
 
 **installation:**
